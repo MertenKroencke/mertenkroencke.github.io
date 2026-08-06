@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Merten Kröncke
 
 <img width="500" alt="Kroencke_Bild" src="https://github.com/user-attachments/assets/8ede1f14-a8ed-44c9-905f-9933e080e5a3" />
