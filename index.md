@@ -11,7 +11,7 @@ title: Home
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" height="22" fill="currentColor">
           <path d="M12 3 1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/>
         </svg>
-        <span>University</span>
+        <span>University Page</span>
       </a>
       <a href="https://bsky.app/profile/mertenkroencke.bsky.social" title="Bluesky" target="_blank" rel="noopener">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 530" width="22" height="22" fill="currentColor">
@@ -34,7 +34,21 @@ title: Home
     </div>
   </div>
   <div class="profile-right">
-    <h1>Merten Kröncke</h1>
+    <h1>Dr. Merten Kröncke</h1>
     <p>I am a researcher in computational literary studies at the University of Stuttgart. My work focuses on German-language literature (especially poetry) of the 19th and 20th centuries, canonization, and reception research in the context of Digital Social Reading.</p>
   </div>
 </div>
+
+## Projects
+
+**Lay Literary Theories**
+
+This project examines which literary-theoretical views are held by people who do not engage with literature professionally. Do 'everyday readers' believe that the meaning of a text depends on the author's intention? Do they think there is only a single 'correct' interpretation of a work? And what do they even understand by the term 'literature'? To approach these and other questions, I analyze, among other things, documents on digital platforms such as LovelyBooks or Amazon.
+
+**Literary Change**
+
+The DFG-funded project "Literary Change. German Poetry between Realism and Early Modernism and its Relation to Literary, Cultural and Social Developments" analyzes the development of German-language poetry from around 1850 to 1920 using methods from computational literary studies. The project leaders are Fotis Jannidis and Simone Winko. Further information on the project can be found [here](https://uni-goettingen.de/de/674352.html).
+
+**Empirical Reconstruction of Canonicity**
+
+Together with Jana Eckardt (Göttingen) and Agnes Hilger (Würzburg), I am working on publications on the empirical reconstruction of canonicity. Among other things, we reconstruct the canonicity of authors of more recent German-language literature using quantitative methods.
