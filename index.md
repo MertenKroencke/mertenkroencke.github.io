@@ -46,7 +46,6 @@ title: Home
     </div>
   </div>
   <div class="profile-right">
-    <h1>Dr. Merten Kröncke</h1>
     <p>I am a researcher in computational literary studies at the University of Stuttgart. My work focuses on German-language literature (especially poetry) of the 19th and 20th centuries, canonization, and reception research in the context of Digital Social Reading.</p>
     <br>
     <h2>Current Projects</h2>
