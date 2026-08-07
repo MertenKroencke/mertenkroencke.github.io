@@ -5,8 +5,8 @@ permalink: /talks/
 ---
 
 <style>
-.talk-hero{padding:2.2rem 0 1.6rem;margin-bottom:2rem;border-bottom:1px solid #e5e7eb}
-.talk-hero h1{font-size:clamp(2.2rem,6vw,4rem);line-height:1;margin:.3rem 0 .7rem}
+.talk-hero{padding:0.2rem 0 1.6rem;margin-bottom:2rem;border-bottom:1px solid #e5e7eb}
+.talk-hero h1{font-size:clamp(0.1rem,4vw,3rem);line-height:1;margin:.1rem 0 .7rem}
 .eyebrow{font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;color:#0056b3;font-weight:700}
 .talk-list{list-style:none;padding:0;margin:0}
 .talk{display:grid;grid-template-columns:110px 1fr;gap:1.1rem;padding:1.15rem 0;border-bottom:1px solid #eee}
