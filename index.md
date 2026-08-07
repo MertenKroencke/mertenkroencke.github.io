@@ -6,23 +6,24 @@ title: Home
 <div class="profile-container">
   <div class="profile-left">
     <img class="profile-img" alt="Merten Kröncke" src="https://github.com/user-attachments/assets/8ede1f14-a8ed-44c9-905f-9933e080e5a3" />
-    <div class="profile-links profile-links-single">
+    <div class="profile-links">
       <a href="mailto:merten.kroencke@ilw.uni-stuttgart.de" title="Email">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" height="22" fill="currentColor">
           <path d="M2 4h20v16H2V4zm2 2v.01L12 12l8-5.99V6H4zm16 2.24-7.4 5.55a1 1 0 0 1-1.2 0L4 8.24V18h16V8.24z"/>
         </svg>
+        <span>Mail</span>
       </a>
-    </div>
-    <div class="profile-links">
       <a href="https://www.ilw.uni-stuttgart.de/institut/team/Kroencke/" title="University page" target="_blank" rel="noopener">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" height="22" fill="currentColor">
           <path d="M12 3 1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/>
         </svg>
+        <span>University Page</span>
       </a>
       <a href="https://bsky.app/profile/mertenkroencke.bsky.social" title="Bluesky" target="_blank" rel="noopener">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 530" width="22" height="22" fill="currentColor">
           <path d="M135.72 44.03C202.216 93.951 273.74 195.17 300 249.49c26.262-54.316 97.782-155.54 164.28-205.46C512.06 8.009 590 -19.862 590 68.825c0 17.708-10.156 148.79-16.115 170.06-20.703 73.964-96.144 92.854-163.24 81.433 117.28 19.964 147.17 86.09 82.72 152.22-122.39 125.59-175.91-31.511-189.63-71.766-2.514-7.38-3.69-10.832-3.734-7.905-.045-2.927-1.22.526-3.734 7.905-13.723 40.255-67.235 197.36-189.63 71.766-64.453-66.128-34.559-132.26 82.722-152.22-67.097 11.421-142.54-7.469-163.24-81.433C20.156 217.613 10 86.535 10 68.825c0-88.687 77.94-60.816 125.72-24.795z"/>
         </svg>
+        <span>Bluesky</span>
       </a>
       <a href="https://github.com/MertenKroencke" title="GitHub" target="_blank" rel="noopener">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="22" height="22" fill="currentColor">
@@ -34,16 +35,13 @@ title: Home
           0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013
           8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
         </svg>
+        <span>GitHub</span>
       </a>
-    </div>
-    <div class="profile-links profile-links-single">
       <a href="https://orcid.org/0000-0003-2717-0598" title="ORCID" target="_blank" rel="noopener">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="22" height="22">
-          <circle cx="128" cy="128" r="128" fill="#A6CE39"/>
-          <path fill="#FFFFFF" d="M86.3 186.2H70.9V79.1h15.4v107.1z"/>
-          <path fill="#FFFFFF" d="M78.6 68.6c-5.4 0-9.8-4.4-9.8-9.8s4.4-9.8 9.8-9.8 9.8 4.4 9.8 9.8-4.4 9.8-9.8 9.8z"/>
-          <path fill="#FFFFFF" d="M107 79.1h41.4c39.4 0 56.7 28.2 56.7 53.6 0 27.6-21.6 53.6-56.4 53.6H107V79.1zm15.4 93.3h24.5c34.7 0 42.7-26.4 42.7-39.7 0-21.5-13.7-39.7-43.5-39.7h-23.7v79.4z"/>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="22" height="22" fill="currentColor">
+          <path d="M128 0C57.3 0 0 57.3 0 128s57.3 128 128 128 128-57.3 128-128S198.7 0 128 0zM86.3 186.2H70.9V79.1h15.4v107.1zM78.6 68.6c-5.4 0-9.8-4.4-9.8-9.8s4.4-9.8 9.8-9.8 9.8 4.4 9.8 9.8-4.4 9.8-9.8 9.8zM107 79.1h41.4c39.4 0 56.7 28.2 56.7 53.6 0 27.6-21.6 53.6-56.4 53.6H107V79.1zm15.4 93.3h24.5c34.7 0 42.7-26.4 42.7-39.7 0-21.5-13.7-39.7-43.5-39.7h-23.7v79.4z"/>
         </svg>
+        <span>ORCID</span>
       </a>
     </div>
   </div>
