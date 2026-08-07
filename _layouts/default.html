@@ -55,23 +55,23 @@
     .profile-links {
       margin-top: 1rem;
       display: flex;
-      flex-direction: column;
-      gap: 0.6rem;
-      width: 100%;
+      flex-direction: row;
+      justify-content: center;
+      gap: 1.2rem;
+    }
+    
+    .profile-links-single {
+      margin-top: 0.8rem;
     }
     
     .profile-links a {
+      color: #0056b3;
       display: flex;
       align-items: center;
-      gap: 0.6rem;
-      text-decoration: none;
-      color: #0056b3;
-      font-weight: 600;
-      font-size: 0.95rem;
     }
     
     .profile-links a:hover {
-      text-decoration: underline;
+      color: #003a7a;
     }
     
     .profile-right {
@@ -88,9 +88,6 @@
         flex-direction: column;
         align-items: center;
         text-align: center;
-      }
-      .profile-links a {
-        justify-content: center;
       }
     }
   </style>
