@@ -19,9 +19,7 @@ summary{cursor:pointer;font-weight:700;color:#0056b3}
 </style>
 
 <div class="pub-hero">
-  <div class="eyebrow">Research</div>
-  <h1>Publications</h1>
-  <p>Selected and complete publication record from the current CV, organized by publication type.</p>
+  <h2>Publications</h2>
 </div>
 
 ## Monographien
@@ -74,5 +72,3 @@ summary{cursor:pointer;font-weight:700;color:#0056b3}
 <li><div class="pub-kind">2022</div><div class="pub-title">Annotationsrichtlinien Lyrische Gattungen</div><div class="pub-meta">Göttingen/Würzburg 2022. Gemeinsam mit Fotis Jannidis, Leonard Konle und Simone Winko. <a href="https://doi.org/10.5281/zenodo.6021007">Zenodo</a>.</div></li>
 <li><div class="pub-kind">2022</div><div class="pub-title">Annotationsrichtlinien Gedichtähnlichkeit</div><div class="pub-meta">Göttingen/Würzburg 2022. Gemeinsam mit Fotis Jannidis, Leonard Konle und Simone Winko. <a href="https://doi.org/10.5281/zenodo.6020760">Zenodo</a>.</div></li>
 </ol>
-
-<p class="pub-meta"><em>Bibliographic details are reproduced from the supplied CV, including “im Erscheinen” statuses.</em></p>
