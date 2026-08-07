@@ -47,7 +47,6 @@ title: Home
   </div>
   <div class="profile-right">
     <p>I am a researcher in computational literary studies at the University of Stuttgart. My work focuses on German-language literature (especially poetry) of the 19th and 20th centuries, canonization, and reception research in the context of Digital Social Reading.</p>
-    <br>
     <h2>Current Projects</h2>
     <h3>Lay Literary Theories</h3>
     <p>This project examines which literary-theoretical views are held by people who do not engage with literature professionally. Do 'everyday readers' believe that the meaning of a text depends on the author's intention? Do they think there is only a single 'correct' interpretation of a work? And what do they even understand by the term 'literature'? To approach these and other questions, I analyze, among other things, documents on digital platforms such as LovelyBooks or Amazon.</p>
