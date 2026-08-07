@@ -3,9 +3,38 @@ layout: default
 title: Home
 ---
 
-# Merten Kröncke
-
-<img width="500" alt="Kroencke_Bild" src="https://github.com/user-attachments/assets/8ede1f14-a8ed-44c9-905f-9933e080e5a3" />
-
-I am a researcher in computational literary studies at the University of Stuttgart. My work focuses on German-language literature (especially poetry) of the 19th and 20th centuries, canonization, and reception research in the context of Digital Social Reading.
-
+<div class="profile-container">
+  <div class="profile-left">
+    <img class="profile-img" alt="Merten Kröncke" src="https://github.com/user-attachments/assets/8ede1f14-a8ed-44c9-905f-9933e080e5a3" />
+    <div class="profile-links">
+      <a href="https://www.ilw.uni-stuttgart.de/institut/team/Kroencke/" title="University page" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" height="22" fill="currentColor">
+          <path d="M12 3 1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/>
+        </svg>
+        <span>University</span>
+      </a>
+      <a href="https://bsky.app/profile/mertenkroencke.bsky.social" title="Bluesky" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 530" width="22" height="22" fill="currentColor">
+          <path d="M135.72 44.03C202.216 93.951 273.74 195.17 300 249.49c26.262-54.316 97.782-155.54 164.28-205.46C512.06 8.009 590 -19.862 590 68.825c0 17.708-10.156 148.79-16.115 170.06-20.703 73.964-96.144 92.854-163.24 81.433 117.28 19.964 147.17 86.09 82.72 152.22-122.39 125.59-175.91-31.511-189.63-71.766-2.514-7.38-3.69-10.832-3.734-7.905-.045-2.927-1.22.526-3.734 7.905-13.723 40.255-67.235 197.36-189.63 71.766-64.453-66.128-34.559-132.26 82.722-152.22-67.097 11.421-142.54-7.469-163.24-81.433C20.156 217.613 10 86.535 10 68.825c0-88.687 77.94-60.816 125.72-24.795z"/>
+        </svg>
+        <span>Bluesky</span>
+      </a>
+      <a href="https://github.com/MertenKroencke" title="GitHub" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="22" height="22" fill="currentColor">
+          <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38
+          0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01
+          1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95
+          0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68
+          0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15
+          0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013
+          8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+        </svg>
+        <span>GitHub</span>
+      </a>
+    </div>
+  </div>
+  <div class="profile-right">
+    <h1>Merten Kröncke</h1>
+    <p>I am a researcher in computational literary studies at the University of Stuttgart. My work focuses on German-language literature (especially poetry) of the 19th and 20th centuries, canonization, and reception research in the context of Digital Social Reading.</p>
+  </div>
+</div>
