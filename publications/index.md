@@ -6,7 +6,7 @@ permalink: /publications/
 
 <style>
 .pub-hero{padding:2.2rem 0 1.6rem;margin-bottom:2rem;border-bottom:1px solid #e5e7eb}
-.pub-hero h1{font-size:clamp(1.9rem,5vw,3.2rem);line-height:1;margin:.1rem 0 .7rem}
+.pub-hero h1{font-size:clamp(0.9rem,5vw,3.2rem);line-height:1;margin:.1rem 0 .7rem}
 .eyebrow{font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;color:#0056b3;font-weight:700}
 .pub-list{counter-reset:pub;list-style:none;padding:0}
 .pub-list li{counter-increment:pub;position:relative;padding:0 0 1.25rem 3rem;margin:0 0 1.25rem;border-bottom:1px solid #eee}
