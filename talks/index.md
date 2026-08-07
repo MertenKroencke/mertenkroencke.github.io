@@ -18,9 +18,7 @@ permalink: /talks/
 </style>
 
 <div class="talk-hero">
-  <div class="eyebrow">Presentations &amp; Lectures</div>
   <h1>Talks</h1>
-  <p>Vorträge, Konferenzbeiträge, Workshops und Gastvorträge, chronologisch absteigend.</p>
 </div>
 
 <div class="talk-list">
@@ -92,5 +90,3 @@ permalink: /talks/
 <div class="talk"><div class="year">2017</div><div><h3>Erforschen, wie man Kleist erforscht. Der Forschungsbezug in Kohlhaas-Interpretationen</h3><p class="event">Zweite Konferenz für Studentische Forschung · Humboldt-Universität Berlin · 21.–22. September 2017 · gemeinsam mit Stefan Walfort</p></div></div>
 
 </div>
-
-<p style="color:#666;font-size:.92rem;margin-top:2rem"><em>Vortragsliste aus dem supplied CV, Stand April 2026.</em></p>
