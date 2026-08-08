@@ -31,8 +31,8 @@ permalink: /teaching/
 ### SoSe 2026
 
 <ol class="pub-list">
-<li><div class="pub-title">Popliteratur</div><div class="pub-meta">Bachelorseminar.</div></li>
-<li><div class="pub-title">Heinrich von Kleist</div><div class="pub-meta">Masterseminar.</div></li>
+<li><div class="pub-title">Popliteratur</div><div class="pub-meta">Bachelorseminar</div></li>
+<li><div class="pub-title">Heinrich von Kleist</div><div class="pub-meta">Masterseminar</div></li>
 </ol>
 
 </div>
