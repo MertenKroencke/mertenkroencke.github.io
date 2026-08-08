@@ -4,10 +4,8 @@ title: Home
 ---
 
 <style>
-.highlight-pubs{margin:.6rem 0 1.6rem;padding-left:1.1rem}
-.highlight-label{font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:#0056b3;font-weight:700;margin:0 0 .4rem}
-.highlight-pubs li{margin:0 0 .6rem;color:#333}
-.highlight-pubs li:last-child{margin-bottom:0}
+.highlight-pub{margin:.5rem 0;padding-left:.9rem;border-left:2px solid #e5e7eb;color:#555;font-size:.95rem}
+.highlight-pub b{color:#0056b3;font-weight:700}
 </style>
 
 <div class="profile-container">
@@ -58,26 +56,17 @@ title: Home
 
     <h3>Lay Literary Theories</h3>
     <p>This project examines which literary-theoretical views are held by people who do not engage with literature professionally. Do 'everyday readers' believe that the meaning of a text depends on the author's intention? Do they think there is only a single 'correct' interpretation of a work? And what do they even understand by the term 'literature'? To approach these and other questions, I analyze, among other things, documents on digital platforms such as LovelyBooks or Amazon.</p>
-    <p class="highlight-label">Highlight Publications</p>
-    <ul class="highlight-pubs">
-      <li>Lay Literary Theory and its Investigation through Digital Social Reading. In: <em>Journal of Literary Theory</em> 20.2 (2026).</li>
-      <li>The Terminological Resources of Lay Readers: Do LovelyBooks Users Distinguish fiktiv from fiktional? In: <em>Scientific Study of Literature</em> 15.1, pp. 22—40. <a href="https://doi.org/10.61645/ssol.212" target="_blank" rel="noopener">DOI</a>.</li>
-    </ul>
+    <p class="highlight-pub"><b>Highlight publication:</b> Lay Literary Theory and its Investigation through Digital Social Reading. In: <em>Journal of Literary Theory</em> 20.2 (2026).</p>
+    <p class="highlight-pub"><b>Highlight publication:</b> The Terminological Resources of Lay Readers: Do LovelyBooks Users Distinguish fiktiv from fiktional? In: <em>Scientific Study of Literature</em> 15.1, pp. 22—40. <a href="https://doi.org/10.61645/ssol.212" target="_blank" rel="noopener">DOI</a>.</p>
 
     <h3>Literary Change</h3>
     <p>The DFG-funded project "Literary Change. German Poetry between Realism and Early Modernism and its Relation to Literary, Cultural and Social Developments" analyzes the development of German-language poetry from around 1850 to 1920 using methods from computational literary studies. The project leaders are Fotis Jannidis and Simone Winko. Further information on the project can be found <a href="https://uni-goettingen.de/de/674352.html" target="_blank" rel="noopener">here</a>.</p>
-    <p class="highlight-label">Highlight Publications</p>
-    <ul class="highlight-pubs">
-      <li>On the Unity of Literary Change. The Development of Emotions in German Poetry, Prose, and Drama between 1850 and 1920 as a Test Case. In: <em>Computational Humanities Research 2024</em>, pp. 282—300. With Leonard Konle, Fotis Jannidis und Simone Winko.</li>
-      <li>Connecting the Dots. Variables of Literary History and Emotions in German-language Poetry. In: <em>Journal of Computational Literary Studies</em> 2. With Leonard Konle, Fotis Jannidis und Simone Winko. <a href="https://doi.org/10.48694/jcls.3604" target="_blank" rel="noopener">DOI</a>.</li>
-    </ul>
+    <p class="highlight-pub"><b>Highlight publication:</b> On the Unity of Literary Change. The Development of Emotions in German Poetry, Prose, and Drama between 1850 and 1920 as a Test Case. In: <em>Computational Humanities Research 2024</em>, pp. 282—300. With Leonard Konle, Fotis Jannidis und Simone Winko.</p>
+    <p class="highlight-pub"><b>Highlight publication:</b> Connecting the Dots. Variables of Literary History and Emotions in German-language Poetry. In: <em>Journal of Computational Literary Studies</em> 2. With Leonard Konle, Fotis Jannidis und Simone Winko. <a href="https://doi.org/10.48694/jcls.3604" target="_blank" rel="noopener">DOI</a>.</p>
 
     <h3>Empirical Reconstruction of Canonicity</h3>
     <p>Together with Jana Eckardt (Göttingen) and Agnes Hilger (Würzburg), I am working on publications on the empirical reconstruction of canonicity. Among other things, we reconstruct the canonicity of authors of German-language literature using quantitative methods.</p>
-    <p class="highlight-label">Highlight Publications</p>
-    <ul class="highlight-pubs">
-      <li>1000 Punkte für Goethe. Eine empirische Rekonstruktion des Kanons der neueren deutschsprachigen Literatur. In: <em>Zeitschrift für Germanistik</em>, forthcoming. With Agnes Hilger und Jana Eckardt.</li>
-      <li>Taking a Step Back: Theoretical Fundamentals of Canonicity and its Empirical Reconstruction. In: <em>Poetics Today</em> 47.3, forthcoming. With Agnes Hilger und Jana Eckardt.</li>
-    </ul>
+    <p class="highlight-pub"><b>Highlight publication:</b> 1000 Punkte für Goethe. Eine empirische Rekonstruktion des Kanons der neueren deutschsprachigen Literatur. In: <em>Zeitschrift für Germanistik</em>, forthcoming. With Agnes Hilger und Jana Eckardt.</p>
+    <p class="highlight-pub"><b>Highlight publication:</b> Taking a Step Back: Theoretical Fundamentals of Canonicity and its Empirical Reconstruction. In: <em>Poetics Today</em> 47.3, forthcoming. With Agnes Hilger und Jana Eckardt.</p>
   </div>
 </div>
