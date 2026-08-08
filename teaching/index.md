@@ -45,7 +45,7 @@ permalink: /teaching/
   <div class="sem-block">
     <h3>Winter Semester 2025/26</h3>
     <ol class="pub-list">
-      <li><div class="pub-title">Der historische Roman</div><div class="pub-meta">Bachelor’s Seminar/div></li>
+      <li><div class="pub-title">Der historische Roman</div><div class="pub-meta">Bachelor’s Seminar</div></li>
       <li><div class="pub-title">Einführung in die Neuere deutsche Literatur</div><div class="pub-meta">Bachelor’s Seminar</div></li>
     </ol>
   </div>
@@ -72,7 +72,7 @@ permalink: /teaching/
   <div class="sem-block">
     <h3>Summer Semester 2023</h3>
     <ol class="pub-list">
-      <li><div class="pub-title">Was können wir tun? Literaturwissenschaft in den sozialen Medien und der beruflichen Praxis</div><div class="pub-meta">Lecture Series. With Stefan Descher and Maximilian Lippert.</div></li>
+      <li><div class="pub-title">Was können wir tun? Literaturwissenschaft in den sozialen Medien und der beruflichen Praxis</div><div class="pub-meta">Lecture Series. With Stefan Descher and Maximilian Lippert</div></li>
     </ol>
   </div>
 
@@ -90,5 +90,4 @@ permalink: /teaching/
     <ol class="pub-list">
       <li><div class="pub-title">Workshop "Manuelle und LLM-gestützte Annotation von Emotionen in literarischen Texten"</div><div class="pub-meta">University of Oldenburg, Junge 29, 2026.</div></li>
     </ol>
-  </div>
   </div>
