@@ -89,7 +89,7 @@ permalink: /teaching/
   <div class="sem-block">
     <h3>2026</h3>
     <ol class="pub-list">
-      <li><div class="pub-title">Workshop "Manuelle und LLM-gestützte Annotation von Emotionen in literarischen Texten"</div><div class="pub-meta">University of Oldenburg, Junge 29, 2026.</div></li>
+      <li><div class="pub-title">Workshop "Manuelle und LLM-gestützte Annotation von Emotionen in literarischen Texten"</div><div class="pub-meta">University of Oldenburg, June 29, 2026.</div></li>
     </ol>
   </div>
 </div>
