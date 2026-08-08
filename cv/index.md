@@ -44,3 +44,7 @@ summary{cursor:pointer;font-weight:700;color:#0056b3}
 <li><div class="pub-kind">2013</div><div class="pub-title">Abitur</div><div class="pub-meta">Detlefsengymnasium Glückstadt.</div></li>
 
 </ol>
+
+<div style="text-align: center; margin-top: 3rem; font-size: 2rem;">
+  🦭
+</div>
