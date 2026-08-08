@@ -65,7 +65,7 @@ title: Home
     <p class="highlight-pub"><b>Highlight Publication:</b> 1000 Punkte für Goethe. Eine empirische Rekonstruktion des Kanons der neueren deutschsprachigen Literatur. In: <em>Zeitschrift für Germanistik</em> 37.1 (2027), forthcoming. With Jana Eckardt and Agnes Hilger.</p>
 
     <h2 class="h_space">Project 3: Praxeology of Literary Studies</h2>
-    <p>I’m interested in understanding how literary studies actually works: How do scholars interpret literary works? What role do literary theories play in their day-to-day practice? And how are their actions shaped by social and institutional contexts? Together with the <a href="https://uni-goettingen.de/de/587821.html">ArguLit team</a>, I investigate these and related questions using both qualitative and quantitative methods.</p>
+    <p>I am interested in understanding how literary studies actually works: How do scholars interpret literary works? What role do literary theories play in their day-to-day practice? And how are their actions shaped by social and institutional contexts? Together with the <a href="https://uni-goettingen.de/de/587821.html">ArguLit team</a>, I investigate these and related questions using both qualitative and quantitative methods.</p>
     <p class="highlight-pub"><b>Highlight Publication:</b> Praktiken des Plausibilisierens. Untersuchungen zum Argumentieren in literaturwissenschaftlichen Interpretationstexten, Göttingen 2024. With Simone Winko, Stefan Descher, Urania Milevski, Fabian Finkendey, Loreen Dalski and Julia Wagner. <a href="https://doi.org/10.17875/gup2024-2639" target="_blank" rel="noopener">https://doi.org/10.17875/gup2024-2639</a>.</p>
 
     <h2 class="h_space">Project 4: Literary Change</h2>
