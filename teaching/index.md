@@ -20,7 +20,7 @@ permalink: /teaching/
 </style>
 
 <div class="pub-hero">
-  <h1>Lehre</h1>
+  <h1>Teaching</h1>
 </div>
 
 <div class="uni-block">
