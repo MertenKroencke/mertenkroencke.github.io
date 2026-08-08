@@ -4,8 +4,8 @@ title: Home
 ---
 
 <style>
-.highlight-pub{margin:.5rem 0;padding-left:.9rem;border-left:2px solid #e5e7eb;color:#555;font-size:.95rem}
-.highlight-pub b{color:#0056b3;font-weight:700}
+.highlight-pub{margin:.5rem 0;color:#555;font-size:.95rem}
+.highlight-pub b{color:#111;font-weight:700}
 </style>
 
 <div class="profile-container">
