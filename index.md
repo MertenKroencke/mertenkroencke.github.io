@@ -67,9 +67,15 @@ title: Home
     <div style="margin: 1.5rem 0;">
       <iframe
         src="{{ '/assets/gender_hero_time_slider.html' | relative_url }}"
-        style="border: 3px solid red;"
+        style="
+          width: 100%;
+          height: 900px;
+          border: 0;
+          display: block;
+        "
         title="Interactive visualization">
       </iframe>
+    
       <p style="text-align:center; font-size:.85rem; color:#777; margin-top:.4rem;">
         Interactive: drag the slider to filter authors by birth year.
       </p>
