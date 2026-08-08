@@ -65,13 +65,11 @@ title: Home
     <p class="highlight-pub"><b>Highlight Publication:</b> 1000 Punkte für Goethe. Eine empirische Rekonstruktion des Kanons der neueren deutschsprachigen Literatur. In: <em>Zeitschrift für Germanistik</em> 37.1 (2027), forthcoming. With Jana Eckardt and Agnes Hilger.</p>
 
     <div style="margin: 1.5rem 0;">
-      <iframe
-        src="{{ '/assets/gender_hero_time_slider.html' | relative_url }}"
-        width="100%"
-        height="800"
-        style="border: 3px solid red;"
-        title="Interactive visualization">
-      </iframe>
+      <p>
+        <a href="{{ '/assets/gender_hero_time_slider.html' | relative_url }}">
+          Interactive: Canonicity score vs. year of birth, by gender, with a time slider →
+        </a>
+      </p>
       <p style="text-align:center; font-size:.85rem; color:#777; margin-top:.4rem;">
         Interactive: drag the slider to filter authors by birth year.
       </p>
