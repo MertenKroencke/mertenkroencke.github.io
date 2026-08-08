@@ -68,8 +68,8 @@ title: Home
       <iframe
         src="{{ '/assets/top_canonicity_authors.html' | relative_url }}"
         style="
-          width: 100%;
-          height: 900px;
+          width: 800px;
+          height: 400px;
           border: 0;
           display: block;
         "
