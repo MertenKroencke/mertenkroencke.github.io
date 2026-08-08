@@ -65,12 +65,18 @@ summary{cursor:pointer;font-weight:700;color:#0056b3}
 <li><div class="pub-kind">DHd2022</div><div class="pub-title">Genitivmetaphern in der Lyrik des Realismus und der frühen Moderne</div><div class="pub-meta">DHd2022: Kulturen des digitalen Gedächtnisses, Potsdam, March 7–11, 2022. With Leonard Konle, Fotis Jannidis and Simone Winko. <a href="https://doi.org/10.5281/zenodo.6328069">https://doi.org/10.5281/zenodo.6328069</a>.</div></li>
 </ol>
 
+## Posters
+
+<ol class="pub-list">
+<li><div class="pub-kind">2022</div><div class="pub-title">A Canonicity Score for Your Corpus</div><div class="pub-meta">, Poster presented at the 5th Annual Conference of Computational Literary Studies, Potsdam, May 28–29, 2026. With Agnes Hilger and Jana Eckardt. <a href="https://doi.org/10.5281/zenodo.19555822">https://doi.org/10.5281/zenodo.19555822</a>.</div></li>
+</ol>
+ 
 ## Corpora, Annotation Data, Annotation Guidelines
 
 <ol class="pub-list">
-<li><div class="pub-kind">2022</div><div class="pub-title">Poetry Anthologies 1850–1910</div><div class="pub-meta">Göttingen/Würzburg 2022. With Simone Winko, Leonard Konle and Fotis Jannidis. Korpus: <a href="https://doi.org/10.5281/zenodo.6053952">Zenodo</a> · Corpus Description: <a href="https://doi.org/10.5281/zenodo.6204787">Zenodo</a>.</div></li>
-<li><div class="pub-kind">2022</div><div class="pub-title">Poetry Anthologies 1850–1920 Annotations</div><div class="pub-meta">Göttingen/Würzburg 2022. With Leonard Konle, Simone Winko and Fotis Jannidis. <a href="https://doi.org/10.5281/zenodo.6047514">Zenodo</a>.</div></li>
-<li><div class="pub-kind">2022</div><div class="pub-title">Annotation Guidelines Emotion Markers and Emotions</div><div class="pub-meta">Göttingen/Würzburg 2022. With Fotis Jannidis, Leonard Konle and Simone Winko. <a href="https://doi.org/10.5281/zenodo.6021152">Zenodo</a>.</div></li>
-<li><div class="pub-kind">2022</div><div class="pub-title">Annotation Guidelines Lyric Genres</div><div class="pub-meta">Göttingen/Würzburg 2022. With Fotis Jannidis, Leonard Konle and Simone Winko. <a href="https://doi.org/10.5281/zenodo.6021007">Zenodo</a>.</div></li>
-<li><div class="pub-kind">2022</div><div class="pub-title">Annotation Guidelines Poem Similarity</div><div class="pub-meta">Göttingen/Würzburg 2022. With Fotis Jannidis, Leonard Konle and Simone Winko. <a href="https://doi.org/10.5281/zenodo.6020760">Zenodo</a>.</div></li>
+<li><div class="pub-kind">2026</div><div class="pub-title">LovelyBooks Corpus</div><div class="pub-meta">, 2026.<a href="https://doi.org/10.5281/zenodo.17877135">https://doi.org/10.5281/zenodo.17877135</a>.</div></li>
+<li><div class="pub-kind">2022</div><div class="pub-title">Lyrik-Anthologien 1850–1910</div><div class="pub-meta">Göttingen/Würzburg 2022. With Simone Winko, Leonard Konle and Fotis Jannidis. Corpus: <a href="https://doi.org/10.5281/zenodo.6053952">https://doi.org/10.5281/zenodo.6053952</a> · Corpus Description: <a href="https://doi.org/10.5281/zenodo.6204787">https://doi.org/10.5281/zenodo.6204787</a>. Annotations: <a href="https://doi.org/10.5281/zenodo.6047514">https://doi.org/10.5281/zenodo.6047514</a>.</div></li>
+<li><div class="pub-kind">2022</div><div class="pub-title">Annotationsrichtlinien Emotionsmarker und Emotionen</div><div class="pub-meta">Göttingen/Würzburg 2022. With Fotis Jannidis, Leonard Konle and Simone Winko. <a href="https://doi.org/10.5281/zenodo.6021152">https://doi.org/10.5281/zenodo.6021152</a>.</div></li>
+<li><div class="pub-kind">2022</div><div class="pub-title">Annotationsrichtlinien Lyrische Gattungen</div><div class="pub-meta">Göttingen/Würzburg 2022. With Fotis Jannidis, Leonard Konle and Simone Winko. <a href="https://doi.org/10.5281/zenodo.6021007">https://doi.org/10.5281/zenodo.6021007</a>.</div></li>
+<li><div class="pub-kind">2022</div><div class="pub-title">Annotationsrichtlinien Gedichtähnlichkeit</div><div class="pub-meta">Göttingen/Würzburg 2022. With Fotis Jannidis, Leonard Konle and Simone Winko. <a href="https://doi.org/10.5281/zenodo.6020760">https://doi.org/10.5281/zenodo.6020760</a>.</div></li>
 </ol>
