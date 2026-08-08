@@ -66,8 +66,7 @@ title: Home
 
     <h2 class="h_space">Project 3: Praxeology of Literary Studies</h2>
     <p>I’m interested in understanding how literary studies actually works: How do scholars interpret literary works? What role do literary theories play in their day-to-day practice? And how are their actions shaped by social and institutional contexts? Together with the <a href="https://uni-goettingen.de/de/587821.html">ArguLit team</a>, I investigate these and related questions using both qualitative and quantitative methods.</p>
-    <p class="highlight-pub"><b>Highlight publication:</b> Praktiken des Plausibilisierens. Untersuchungen zum Argumentieren in literaturwissenschaftlichen Interpretationstexten
-Göttingen 2024. With Simone Winko, Stefan Descher, Urania Milevski, Fabian Finkendey, Loreen Dalski and Julia Wagner. <a href="https://doi.org/10.17875/gup2024-2639" target="_blank" rel="noopener">https://doi.org/10.17875/gup2024-2639</a>.</p>
+    <p class="highlight-pub"><b>Highlight publication:</b> Praktiken des Plausibilisierens. Untersuchungen zum Argumentieren in literaturwissenschaftlichen Interpretationstexten, Göttingen 2024. With Simone Winko, Stefan Descher, Urania Milevski, Fabian Finkendey, Loreen Dalski and Julia Wagner. <a href="https://doi.org/10.17875/gup2024-2639" target="_blank" rel="noopener">https://doi.org/10.17875/gup2024-2639</a>.</p>
 
     <h2 class="h_space">Project 4: Literary Change</h2>
     <p>I am part of the project <em>“Literary Change. German Poetry between Realism and Early Modernism and its Relation to Literary, Cultural and Social Developments”</em>, funded by the DFG from 2020 to 2026. The project investigates the development of German-language poetry from around 1850 to 1920 using methods from Computational Literary Studies and is led by Fotis Jannidis and Simone Winko. You can find more information about the project <a href="https://uni-goettingen.de/de/674352.html" target="_blank" rel="noopener">here</a>.</p>
