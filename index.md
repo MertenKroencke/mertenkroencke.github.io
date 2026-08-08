@@ -66,7 +66,7 @@ title: Home
 
     <div style="margin: 1.5rem 0;">
       <iframe
-        src="{{ '/assets/gender_hero_time_slider.html' | relative_url }}"
+        src="{{ '/assets/top_canonicity_authors.html' | relative_url }}"
         style="
           width: 100%;
           height: 900px;
