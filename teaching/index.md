@@ -24,21 +24,29 @@ permalink: /teaching/
 </div>
 
 <div class="uni-block">
-  <h2>Universität Stuttgart</h2>
+  <h2>University of Stuttgart</h2>
 
   <div class="sem-block">
-    <h3>SoSe 2026</h3>
+    <h3>Winter Semester 2026/27</h3>
     <ol class="pub-list">
-      <li><div class="pub-title">Popliteratur</div><div class="pub-meta">Bachelorseminar.</div></li>
-      <li><div class="pub-title">Heinrich von Kleist</div><div class="pub-meta">Masterseminar.</div></li>
+      <li><div class="pub-title">Novellen des 19. Jahrhunderts</div><div class="pub-meta">Bachelor’s Seminar</div></li>
+      <li><div class="pub-title">Einführung in die Neuere deutsche Literatur</div><div class="pub-meta">Bachelor’s Seminar</div></li>
+    </ol>
+  </div>
+  
+  <div class="sem-block">
+    <h3>Summer Semester 2026</h3>
+    <ol class="pub-list">
+      <li><div class="pub-title">Popliteratur</div><div class="pub-meta">Master’s Seminar</div></li>
+      <li><div class="pub-title">Heinrich von Kleist</div><div class="pub-meta">Bachelor’s Seminar</div></li>
     </ol>
   </div>
 
   <div class="sem-block">
-    <h3>WiSe 2025/26</h3>
+    <h3>Winter Semester 2025/26</h3>
     <ol class="pub-list">
-      <li><div class="pub-title">Der historische Roman</div><div class="pub-meta">Bachelorseminar.</div></li>
-      <li><div class="pub-title">Einführung in die Neuere deutsche Literatur</div><div class="pub-meta">Bachelorseminar.</div></li>
+      <li><div class="pub-title">Der historische Roman</div><div class="pub-meta">Bachelor’s Seminar/div></li>
+      <li><div class="pub-title">Einführung in die Neuere deutsche Literatur</div><div class="pub-meta">Bachelor’s Seminar</div></li>
     </ol>
   </div>
 </div>
@@ -47,31 +55,40 @@ permalink: /teaching/
   <h2>Georg-August-Universität Göttingen</h2>
 
   <div class="sem-block">
-    <h3>SoSe 2025</h3>
+    <h3>Summer Semester 2025</h3>
     <ol class="pub-list">
-      <li><div class="pub-title">Literaturkommunikation auf BookTok</div><div class="pub-meta">Forschungsorientiertes Lehren und Lernen. Gemeinsam mit Jana Eckardt.</div></li>
+      <li><div class="pub-title">Literaturkommunikation auf BookTok</div><div class="pub-meta">Research-oriented teaching and learning. With Jana Eckardt</div></li>
     </ol>
   </div>
 
   <div class="sem-block">
-    <h3>WiSe 2024/25</h3>
+    <h3>Winter Semester 2024/25</h3>
     <ol class="pub-list">
-      <li><div class="pub-title">BookTok, LovelyBooks und Co. Literaturkommunikation im digitalen Raum</div><div class="pub-meta">Bachelorseminar. Gemeinsam mit Jana Eckardt.</div></li>
-      <li><div class="pub-title">Fantasyliteratur</div><div class="pub-meta">Bachelorseminar.</div></li>
+      <li><div class="pub-title">BookTok, LovelyBooks und Co. Literaturkommunikation im digitalen Raum</div><div class="pub-meta">Bachelor's Seminar. With Jana Eckardt</div></li>
+      <li><div class="pub-title">Fantasyliteratur</div><div class="pub-meta">Bachelor's Seminar</div></li>
     </ol>
   </div>
 
   <div class="sem-block">
-    <h3>SoSe 2023</h3>
+    <h3>Summer Semester 2023</h3>
     <ol class="pub-list">
-      <li><div class="pub-title">Was können wir tun? Literaturwissenschaft in den sozialen Medien und der beruflichen Praxis</div><div class="pub-meta">Vorlesungsreihe. Gemeinsam mit Stefan Descher und Maximilian Lippert.</div></li>
+      <li><div class="pub-title">Was können wir tun? Literaturwissenschaft in den sozialen Medien und der beruflichen Praxis</div><div class="pub-meta">Lecture Series. With Stefan Descher and Maximilian Lippert.</div></li>
     </ol>
   </div>
 
   <div class="sem-block">
-    <h3>WiSe 2022/23</h3>
+    <h3>Winter Semester 2022/23</h3>
     <ol class="pub-list">
-      <li><div class="pub-title">Lyrik des Realismus und der frühen Moderne</div><div class="pub-meta">Bachelorseminar.</div></li>
+      <li><div class="pub-title">Lyrik des Realismus und der frühen Moderne</div><div class="pub-meta">Bachelor's Seminar</div></li>
     </ol>
   </div>
 </div>
+
+<div class="uni-block">
+  <h2>Other Teaching Activities</h2>
+    <h3>2026</h3>
+    <ol class="pub-list">
+      <li><div class="pub-title">Workshop "Manuelle und LLM-gestützte Annotation von Emotionen in literarischen Texten"</div><div class="pub-meta">University of Oldenburg, Junge 29, 2026.</div></li>
+    </ol>
+  </div>
+  </div>
