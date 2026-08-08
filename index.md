@@ -6,6 +6,7 @@ title: Home
 <style>
 .highlight-pub{margin:.5rem 0;color:#555;font-size:.95rem}
 .highlight-pub b{color:#111;font-weight:700}
+.h_space {margin-top: 1cm}
 </style>
 
 <div class="profile-container">
@@ -51,23 +52,24 @@ title: Home
     </div>
   </div>
   <div class="profile-right">
-    <p>I am a researcher in computational literary studies at the University of Stuttgart. My work focuses on German-language literature (especially poetry) of the 19th and 20th centuries, canonization, and reception research in the context of Digital Social Reading.</p>
-    <h2>Project 1: Lay Literary Theories</h2>
+    <p>I am a researcher in computational literary studies at the University of Stuttgart. My work focuses on German-language literature (especially poetry) of the 19th and 20th centuries, canonization, the praxeology of literary studies, and reception research in the context of Digital Social Reading.</p>
+    
+    <h2 class="h_space">Project 1: Lay Literary Theories</h2>
     <p>This project examines which literary-theoretical views are held by people who do not engage with literature professionally. Do 'everyday readers' believe that the meaning of a text depends on the author's intention? Do they think there is only a single 'correct' interpretation of a work? And what do they even understand by the term 'literature'? To approach these and other questions, I analyze, among other things, documents on digital platforms such as LovelyBooks or Amazon.</p>
     <p class="highlight-pub"><b>Highlight publication:</b> Lay Literary Theory and its Investigation through Digital Social Reading. In: <em>Journal of Literary Theory</em> 20.2 (2026).</p>
     <p class="highlight-pub"><b>Highlight publication:</b> The Terminological Resources of Lay Readers: Do LovelyBooks Users Distinguish fiktiv from fiktional? In: <em>Scientific Study of Literature</em> 15.1, pp. 22—40. <a href="https://doi.org/10.61645/ssol.212" target="_blank" rel="noopener">DOI</a>.</p>
 
-    <h2>Current Project 2: Empirical Reconstruction of Canonicity</h2>
+    <h2 class="h_space">Project 2: Reconstruction of Canonicity</h2>
     <p>Together with Jana Eckardt (Göttingen) and Agnes Hilger (Würzburg), I am working on publications on the empirical reconstruction of canonicity. Among other things, we reconstruct the canonicity of authors of German-language literature using quantitative methods.</p>
     <p class="highlight-pub"><b>Highlight publication:</b> 1000 Punkte für Goethe. Eine empirische Rekonstruktion des Kanons der neueren deutschsprachigen Literatur. In: <em>Zeitschrift für Germanistik</em>, forthcoming. With Agnes Hilger und Jana Eckardt.</p>
     <p class="highlight-pub"><b>Highlight publication:</b> Taking a Step Back: Theoretical Fundamentals of Canonicity and its Empirical Reconstruction. In: <em>Poetics Today</em> 47.3, forthcoming. With Agnes Hilger und Jana Eckardt.</p>
 
-    <h2>Current Project 3: Praxeology of Literary Studies</h2>
+    <h2 class="h_space">Project 3: Praxeology of Literary Studies</h2>
     <p>...</p>
     <p class="highlight-pub"><b>Highlight publication:</b> Praktiken des Plausibilisierens. Untersuchungen zum Argumentieren in literaturwissenschaftlichen Interpretationstexten
 Göttingen 2024. With Simone Winko, Stefan Descher, Urania Milevski, Fabian Finkendey, Loreen Dalski und Julya Wagner. <a href="https://doi.org/10.17875/gup2024-2639" target="_blank" rel="noopener">DOI</a>.</p>
 
-    <h2>Current Project 4: Literary Change</h2>
+    <h2 class="h_space">Project 4: Literary Change</h2>
     <p>The DFG-funded project "Literary Change. German Poetry between Realism and Early Modernism and its Relation to Literary, Cultural and Social Developments" analyzes the development of German-language poetry from around 1850 to 1920 using methods from computational literary studies. The project leaders are Fotis Jannidis and Simone Winko. Further information on the project can be found <a href="https://uni-goettingen.de/de/674352.html" target="_blank" rel="noopener">here</a>.</p>
     <p class="highlight-pub"><b>Highlight publication:</b> On the Unity of Literary Change. The Development of Emotions in German Poetry, Prose, and Drama between 1850 and 1920 as a Test Case. In: <em>Computational Humanities Research 2024</em>, pp. 282—300. With Leonard Konle, Fotis Jannidis und Simone Winko.</p>
     <p class="highlight-pub"><b>Highlight publication:</b> Connecting the Dots. Variables of Literary History and Emotions in German-language Poetry. In: <em>Journal of Computational Literary Studies</em> 2. With Leonard Konle, Fotis Jannidis und Simone Winko. <a href="https://doi.org/10.48694/jcls.3604" target="_blank" rel="noopener">DOI</a>.</p>
