@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Lehre
-permalink: /lehre/
+title: Teaching
+permalink: /teaching/
 ---
 
 <style>
