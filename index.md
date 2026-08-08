@@ -68,17 +68,13 @@ title: Home
       <iframe
         src="{{ '/assets/top_canonicity_authors.html' | relative_url }}"
         style="
-          width: 800px;
+          width: 600px;
           height: 400px;
           border: 0;
           display: block;
         "
-        title="Interactive visualization">
+        title="Top Canonicity Scores">
       </iframe>
-    
-      <p style="text-align:center; font-size:.85rem; color:#777; margin-top:.4rem;">
-        Interactive: drag the slider to filter authors by birth year.
-      </p>
     </div>
 
     <h2 class="h_space">Project 3: Praxeology of Literary Studies</h2>
