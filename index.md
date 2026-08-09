@@ -64,7 +64,7 @@ title: Home
     <p class="highlight-pub"><b>Highlight Publication:</b> Taking a Step Back: Theoretical Fundamentals of Canonicity and its Empirical Reconstruction. In: <em>Poetics Today</em> 47.3 (2026), forthcoming. With Agnes Hilger und Jana Eckardt.</p>
     <p class="highlight-pub"><b>Highlight Publication:</b> 1000 Punkte für Goethe. Eine empirische Rekonstruktion des Kanons der neueren deutschsprachigen Literatur. In: <em>Zeitschrift für Germanistik</em> 37.1 (2027), forthcoming. With Jana Eckardt and Agnes Hilger.</p>
 
-    <div style="margin: 1.5rem 0; width: 100%;">
+    <div style="margin: 0 0; width: 100%;">
       <iframe
         src="{{ '/assets/top_canonicity_authors.html' | relative_url }}"
         style="
