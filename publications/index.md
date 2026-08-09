@@ -25,8 +25,8 @@ summary{cursor:pointer;font-weight:700;color:#0056b3}
 ## Books
 
 <ol class="pub-list">
-<li><div class="pub-kind">2026</div><div class="pub-title">Geschichtslyrik, 1850—1918. Quantitative und qualitative Untersuchungen zur Geschichte einer Gattung</div><div class="pub-meta">Berlin/Boston 2026 (Studien und Texte zur Sozialgeschichte der Literatur 170). <a href="https://doi.org/10.1515/9783112221594">https://doi.org/10.1515/9783112221594</a>.</div></li>
-<li><div class="pub-kind">2024</div><div class="pub-title">Praktiken des Plausibilisierens. Untersuchungen zum Argumentieren in literaturwissenschaftlichen Interpretationstexten</div><div class="pub-meta">Göttingen 2024. With Simone Winko, Stefan Descher, Urania Milevski, Fabian Finkendey, Loreen Dalski and Julia Wagner. <a href="https://doi.org/10.17875/gup2024-2639">https://doi.org/10.17875/gup2024-2639</a>.</div></li>
+<li><div class="pub-kind">2026</div><div class="pub-title">Geschichtslyrik, 1850—1918<br>Quantitative und qualitative Untersuchungen zur Geschichte einer Gattung</div><div class="pub-meta">Berlin/Boston 2026 (Studien und Texte zur Sozialgeschichte der Literatur 170). <a href="https://doi.org/10.1515/9783112221594">https://doi.org/10.1515/9783112221594</a>.</div></li>
+<li><div class="pub-kind">2024</div><div class="pub-title">Praktiken des Plausibilisierens<br>Untersuchungen zum Argumentieren in literaturwissenschaftlichen Interpretationstexten</div><div class="pub-meta">Göttingen 2024. With Simone Winko, Stefan Descher, Urania Milevski, Fabian Finkendey, Loreen Dalski and Julia Wagner. <a href="https://doi.org/10.17875/gup2024-2639">https://doi.org/10.17875/gup2024-2639</a>.</div></li>
 </ol>
 
 ## Articles
