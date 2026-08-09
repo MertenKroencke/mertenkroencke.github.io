@@ -25,14 +25,14 @@ summary{cursor:pointer;font-weight:700;color:#0056b3}
 ## Books
 
 <ol class="pub-list">
-<li><div class="pub-kind">2026</div><div class="pub-title">Geschichtslyrik, 1850—1918<br>Quantitative und qualitative Untersuchungen zur Geschichte einer Gattung</div><div class="pub-meta">Berlin/Boston 2026 (Studien und Texte zur Sozialgeschichte der Literatur 170). <a href="https://doi.org/10.1515/9783112221594">https://doi.org/10.1515/9783112221594</a>.</div></li>
-<li><div class="pub-kind">2024</div><div class="pub-title">Praktiken des Plausibilisierens<br>Untersuchungen zum Argumentieren in literaturwissenschaftlichen Interpretationstexten</div><div class="pub-meta">Göttingen 2024. With Simone Winko, Stefan Descher, Urania Milevski, Fabian Finkendey, Loreen Dalski and Julia Wagner. <a href="https://doi.org/10.17875/gup2024-2639">https://doi.org/10.17875/gup2024-2639</a>.</div></li>
+<li><div class="pub-kind">2026</div><div class="pub-title">Geschichtslyrik, 1850—1918.<br>Quantitative und qualitative Untersuchungen zur Geschichte einer Gattung</div><div class="pub-meta">Berlin/Boston 2026 (Studien und Texte zur Sozialgeschichte der Literatur 170). <a href="https://doi.org/10.1515/9783112221594">https://doi.org/10.1515/9783112221594</a>.</div></li>
+<li><div class="pub-kind">2024</div><div class="pub-title">Praktiken des Plausibilisierens.<br>Untersuchungen zum Argumentieren in literaturwissenschaftlichen Interpretationstexten</div><div class="pub-meta">Göttingen 2024. With Simone Winko, Stefan Descher, Urania Milevski, Fabian Finkendey, Loreen Dalski and Julia Wagner. <a href="https://doi.org/10.17875/gup2024-2639">https://doi.org/10.17875/gup2024-2639</a>.</div></li>
 </ol>
 
 ## Articles
 
 <ol class="pub-list">
-<li><div class="pub-kind">Forthcoming</div><div class="pub-title">1000 Punkte für Goethe. Eine empirische Rekonstruktion des Kanons der neueren deutschsprachigen Literatur</div><div class="pub-meta">In: <em>Zeitschrift für Germanistik</em> 37.1 (2027), forthcoming. With Jana Eckardt and Agnes Hilger.</div></li>
+<li><div class="pub-kind">Forthcoming</div><div class="pub-title">1000 Punkte für Goethe.<br>Eine empirische Rekonstruktion des Kanons der neueren deutschsprachigen Literatur</div><div class="pub-meta">In: <em>Zeitschrift für Germanistik</em> 37.1 (2027), forthcoming. With Jana Eckardt and Agnes Hilger.</div></li>
 <li><div class="pub-kind">Forthcoming</div><div class="pub-title">Lay Literary Theory and its Investigation through Digital Social Reading</div><div class="pub-meta">In: <em>Journal of Literary Theory</em> 20.2 (2026), forthcoming.</div></li>
 <li><div class="pub-kind">Forthcoming</div><div class="pub-title">Taking a Step Back: Theoretical Fundamentals of Canonicity and its Empirical Reconstruction</div><div class="pub-meta">In: <em>Poetics Today</em> 47.3 (2026), forthcoming. With Agnes Hilger and Jana Eckardt.</div></li>
 <li><div class="pub-kind">2026</div><div class="pub-title">Kohärenz, Realitätsbezug, Multiperspektivität. Geschichtslyrikanthologien als Medien populärer Geschichtsvermittlung im 19. und 20. Jahrhundert</div><div class="pub-meta">In: Björn Spiekermann/Bernhard Walcher (eds.): <em>Das deutschsprachige populäre Geschichtsbuch im 19. und 20. Jahrhundert</em>, Hannover 2026 (Non Fiktion 20), pp. 127–147.</div></li>
