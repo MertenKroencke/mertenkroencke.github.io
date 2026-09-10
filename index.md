@@ -61,7 +61,7 @@ title: Home
 
     <h2 class="h_space">Project 2: Reconstruction of Canonicity</h2>
     <p>Together with <a href="https://www.uni-goettingen.de/de/681152.html" target="_blank" rel="noopener">Jana Eckardt</a> (Göttingen) and <a href="https://www.graduateschools.uni-wuerzburg.de/humanities/personen/promovierende/hilger-agnes/" target="_blank" rel="noopener">Agnes Hilger</a> (Würzburg), I investigate how canonicity can be reconstructed empirically. Among other things, we use quantitative methods to operationalize the canonicity of authors from German-language literature.</p>
-    <p class="highlight-pub"><b>Highlight Publication:</b> Taking a Step Back: Theoretical Fundamentals of Canonicity and its Empirical Reconstruction. In: <em>Poetics Today</em> 47.3 (2026), forthcoming. With Agnes Hilger und Jana Eckardt.</p>
+    <p class="highlight-pub"><b>Highlight Publication:</b> Taking a Step Back: Theoretical Fundamentals of Canonicity and its Empirical Reconstruction. In: <em>Poetics Today</em> 47.3 (2026), pp. 417–447. <a href="https://doi.org/10.1215/03335372-12463688" target="_blank" rel="noopener">https://doi.org/10.1215/03335372-12463688</a>. With Agnes Hilger und Jana Eckardt.</p>
     <p class="highlight-pub"><b>Highlight Publication:</b> 1000 Punkte für Goethe. Eine empirische Rekonstruktion des Kanons der neueren deutschsprachigen Literatur. In: <em>Zeitschrift für Germanistik</em> 37.1 (2027), forthcoming. With Jana Eckardt and Agnes Hilger.</p>
 
     <div style="margin: 0 0; width: 100%;">
