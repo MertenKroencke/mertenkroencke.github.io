@@ -56,7 +56,7 @@ title: Home
     
     <h2 class="h_space">Project 1: Lay Literary Theories</h2>
     <p>I investigate the literary-theoretical ideas held by people who engage with literature outside of professional or academic contexts. Do “everyday readers” believe that the meaning of a text depends on the author’s intention? Do they think there is a single “correct” interpretation of a work? And what do they actually mean when they talk about “literature”? To explore these and related questions, I use quantitative and qualitative methods to analyze discussions and reviews on digital platforms such as LovelyBooks and Amazon.</p>
-    <p class="highlight-pub"><b>Highlight Publication:</b> Lay Literary Theory and its Investigation through Digital Social Reading. In: <em>Journal of Literary Theory</em> 20.2 (2026), forthcoming.</p>
+    <p class="highlight-pub"><b>Highlight Publication:</b> Lay Literary Theory and its Investigation through Digital Social Reading. In: <em>Journal of Literary Theory</em> 20.2 (2026), pp. 191–215. <a href="https://doi.org/10.1515/jlt-2026-3005" target="_blank" rel="noopener">https://doi.org/10.1515/jlt-2026-3005</a></p>
     <p class="highlight-pub"><b>Highlight Publication:</b> The Terminological Resources of Lay Readers: Do LovelyBooks Users Distinguish <em>fiktiv</em> from <em>fiktional</em>? In: <em>Scientific Study of Literature</em> 15.1 (2026), pp. 22—40. <a href="https://doi.org/10.61645/ssol.212" target="_blank" rel="noopener">https://doi.org/10.61645/ssol.212</a>.</p>
 
     <h2 class="h_space">Project 2: Reconstruction of Canonicity</h2>
