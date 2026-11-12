@@ -23,6 +23,7 @@ summary{cursor:pointer;font-weight:700;color:#0056b3}
 </div>
 
 <ol class="pub-list">
+<li><div class="pub-kind">2026</div><div class="pub-title">Large Language Models und automatisierte Annotationen in den Computational Literary Studies</div><div class="pub-meta">Ringvorlesung "KI in den Geistesissenschaften", Stuttgart, November 4, 2026.</div></li>
 <li><div class="pub-kind">2026</div><div class="pub-title">Canonicity, Gender, and Time Period. An Empirical Reconstruction of the German Academic Canon</div><div class="pub-meta">DH2026: Engagement, Daejeon, July 27–31, 2026. With Agnes Hilger and Jana Eckardt.</div></li>
 <li><div class="pub-kind">2026</div><div class="pub-title">Does It Matter Who Reviews Whom? An LLM-based Analysis of the Role of Career Stage, Age, and Gender in German Literary Studies Reviews</div><div class="pub-meta">Conference "Was geht – und warum? Normative Perspektiven auf literaturwissenschaftliche Praktiken", Göttingen, July 16–18, 2026. With Stefan Descher.</div></li>
 <li><div class="pub-kind">2026</div><div class="pub-title">From Canon Theory to an Empirical Canonicity Score for Authors of German-Language Literature</div><div class="pub-meta">Conference "Mapping the Canon: Quantitative Approaches to Literary History", Darmstadt, June 18–19, 2026. With Jana Eckardt and Agnes Hilger.</div></li>
